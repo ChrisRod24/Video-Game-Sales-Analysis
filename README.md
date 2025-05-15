@@ -32,7 +32,7 @@ This project analyzes global video game sales and ratings from 1980 to 2023 usin
 ## 📊 Tableau Dashboard
 The dashboard below was built using Tableau and summarizes major trends by genre, platform, and region.
 
-![Dashboard Screenshot](dashboard.png)
+<img src="dashboard.png" alt="Dashboard Screenshot" width="800"/>
 
 ---
 
